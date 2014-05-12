@@ -51,6 +51,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 # export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/usr/texbin:/usr/local/Cellar/ruby/1.9.3-p194/bin:/Library/PostgreSQL/8.4/bin:/Users/keeds/bin:/Users/keeds/Projects/clojurescript/bin:/usr/local/texlive/2012basic/bin/universal-darwin
-export PATH=/usr/local/bin:/usr/local/sbin:/usr/local/opt/ruby/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/texbin:/Library/PostgreSQL/8.4/bin:/Users/keeds/bin:/usr/local/texlive/2012basic/bin/universal-darwin:/usr/local/Cellar/ruby/2.1.0/bin
+export PATH=/Users/keeds/.cabal/bin:/usr/local/bin:/usr/local/sbin:/usr/local/opt/ruby/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/texbin:/Library/PostgreSQL/8.4/bin:/Users/keeds/bin:/usr/local/texlive/2012basic/bin/universal-darwin:/usr/local/Cellar/ruby/2.1.0/bin
 export ANDROID_HOME=/usr/local/opt/android-sdk
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home
