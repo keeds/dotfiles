@@ -59,4 +59,7 @@ export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home
 export MONO_GAC_PREFIX="/usr/local"
 
 # nix setup
-# . /Users/keeds/.nix-profile/etc/profile.d/nix.sh
+. /Users/keeds/.nix-profile/etc/profile.d/nix.sh
+
+# aws
+source /usr/local/share/zsh/site-functions/_aws
